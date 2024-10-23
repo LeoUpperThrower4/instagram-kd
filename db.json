@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": {
+        "id": 1,
+        "name": "John Doe",
+        "profilePic": "https://ej2.syncfusion.com/demos/src/grid/images/1.png"
+      },
+      "title": "Post 1",
+      "images": [
+        "https://ej2.syncfusion.com/demos/src/grid/images/1.png",
+        "https://ej2.syncfusion.com/demos/src/grid/images/2.png",
+        "https://ej2.syncfusion.com/demos/src/grid/images/3.png"
+      ],
+      "description": "Description 1",
+      "likes": {
+        "images": [
+          "https://ej2.syncfusion.com/demos/src/grid/images/1.png",
+          "https://ej2.syncfusion.com/demos/src/grid/images/2.png",
+          "https://ej2.syncfusion.com/demos/src/grid/images/3.png"
+        ],
+        "first": "Fernanda"
+      }
+    },
+    {
+      "id": 2,
+      "author": {
+        "id": 1,
+        "name": "John Doe",
+        "profilePic": "https://ej2.syncfusion.com/demos/src/grid/images/1.png"
+      },
+      "title": "Post 2",
+      "images": [
+        "https://ej2.syncfusion.com/demos/src/grid/images/1.png",
+        "https://ej2.syncfusion.com/demos/src/grid/images/2.png",
+        "https://ej2.syncfusion.com/demos/src/grid/images/3.png"
+      ],
+      "description": "Description 2",
+      "likes": {
+        "images": [
+          "https://ej2.syncfusion.com/demos/src/grid/images/3.png",
+          "https://ej2.syncfusion.com/demos/src/grid/images/2.png",
+          "https://ej2.syncfusion.com/demos/src/grid/images/1.png"
+        ],
+        "first": "Leonardo"
+      }
+    }
+  ]
+}

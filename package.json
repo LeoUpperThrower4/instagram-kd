@@ -18,6 +18,9 @@
     "@angular/platform-browser": "^17.3.0",
     "@angular/platform-browser-dynamic": "^17.3.0",
     "@angular/router": "^17.3.0",
+    "@syncfusion/ej2-angular-lists": "^27.1.50",
+    "@syncfusion/ej2-angular-navigations": "^27.1.55",
+    "@syncfusion/ej2-icons": "^27.1.50",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
